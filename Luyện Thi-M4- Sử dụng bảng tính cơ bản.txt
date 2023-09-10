@@ -1,0 +1,52 @@
+Q1) Trong excel 2010, phím nào sau đây giúp sửa lỗi bằng cách xóa ký tự sai bên trái con trỏ?
+c.  Backspace
+
+Q2) Trong excel 2010, khi con trỏ đang nằm ở 1 ô có dữ liệu, ấn phím gì trong các phím sau thì dữ liệu không bị xóa?
+d.  Insert
+
+Q3) Trong excel 2010, phím nào sau đây sẽ dùng để kết hợp lựa chọn các dòng không kề nhau?
+a.  Alt
+
+Q4) Trong excel 2010, khi sao chép dữ liệu của từ vùng nguồn sang vùng đích, đầu tiên ta phải đánh dấu vùng nguồn định sao chép, tiếp theo thực hiện thao tác nào sau đây rồi đưa con trỏ đến vùng đích dán dữ liệu vào?
+c.  Ấn chuột phải vào vùng đánh dấu > chọn paste
+
+Q5) Khi nhập dữ liệu vào 1 ô tính, nếu nội dung ô tính được bắt đầu bằng dấu "=" hoặc dấu "+" thì dữ liệu của ô đấy là:
+b.  Kết quả sau khi công thức tại ô đấy tính toán
+
+Q6) Trong các phương án dưới đây, đâu là phần mềm bảng tính
+b.  Cả 3 ý còn lại đều đúng
+
+Q7) Kiểu file mặc định trong excel 2010 có đuôi là gì?
+a.  *.Xlsx
+
+Q8) Trong excel 2010, khi gõ giá trị số bắt đầu vào ô đầu tiên, chọn ô vừa gõ, di chuyển chuột tới góc phải phía bên dưới khi hiện hình chữ thập, nhấn chuột và giữ phím Ctrl, kéo tới ô mong muốn. Kết quả thu được là gì?
+b.  Dãy số tự động tăng dần được điền vào.
+
+Q9) Trong excel 2010, muốn chọn (đánh dấu) nhiều ô không liền kề ta phải ấn vào phím nào trong các phím sau rồi nhấn chuột trái chọn các ô cần đánh dấu?
+c.  Ctrl
+
+Q10) Khi làm việc trên bảng tính Excel 2010, nếu muốn mở 1 tệp bảng tính (WorkBook) thì ta chọn File trên thanh menu sau đó chọn:
+b.  Open
+
+Q11) Chương trình bảng tính là gì?
+b.  Chương trình bảng tính là phần mềm được thiết kế để giúp ghi lại và trình bày thông tin dưới dạng
+
+Q12) Đáp án đúng là a. Cài đặt phần mềm MS Excel 2010 trên hệ điều hành tương thích 😊
+Q13) Đáp án đúng là c. Start>MS Excel.exe 😊
+Q14) Đáp án đúng là b. Bôi đen các ô liên tiếp trong vùng B5:E9 😊
+Q15) Đáp án đúng là c. Ấn chuột phải>Sort> Sort Largest to Smallest 😊
+Q16) Đáp án đúng là c. Ctrl 😊
+Q17) Đáp án đúng là b. View> Arange All 😊
+Q18) Đáp án đúng là c. Ctrl-Page Up; Ctrl- Page Down 😊
+Q19) Đáp án đúng là a. 255 😊
+Q20) Đáp án đúng là d. Shift 😊
+Q21) Đáp án đúng là b. Ctrl +F>Replace>đưa nội dung cũ cần thay thế và nội dung mới vào 😊
+Q22) Đáp án đúng là d. Gửi tin nhắn trên mạng Internet (chat) 😊
+Q23) Đáp án đúng là a. Format Cells 😊
+Q24) Đáp án đúng là c. Nhấp chuột vào ô cần nhập, nhập dữ liệu và sau đó nhấn phím Enter để kết thúc 😊
+Q25) Đáp án đúng là c. Copy 😊
+Q26) Đáp án đúng là c. Ctrl + A 😊
+Q27) Đáp án đúng là b. Tuyệt đối 😊
+Q28) Đáp án đúng là a. Day 😊
+Q29) Đáp án đúng là b. F2 😊
+Q30) Đáp án đúng là b. Shift+Insert 😊

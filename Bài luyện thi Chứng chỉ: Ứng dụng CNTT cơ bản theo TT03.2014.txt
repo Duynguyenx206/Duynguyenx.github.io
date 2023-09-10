@@ -1,0 +1,41 @@
+Q1) a. Tất cả các ý còn lại đều sai.
+Q2) c. Ổ đĩa HDD có dung lượng 160GB, chuẩn SATA có tốc độ truy cập là 150MB trên 1 giây, tốc độ quay ổ đĩa là 7200 vòng/giây.
+Q3) b. Đổ thêm mực.
+Q4) c. Là một giao thức để gửi tin nhắn (văn bản, kí tự) qua mạng không dây. Độ dài tối đa của một tin nhắn là 160 ký tự nếu dùng bảng mã ASCII 7 bit.
+Q5) d. Nhân bản, sản xuất bản sao, phân phối phần mềm mà chưa được sự cho phép của tác giả.
+Q6) a. Tốc độ của BUS là 1600MHz/1 giây.
+Q7) a. Là kỹ thuật đánh lừa người dùng để khai thác thông tin hoặc lấy thông tin để xâm nhập hệ thống.
+Q8) a. Windows + E.
+Q9) c. Lệnh restart.
+Q10) a. Alt + Tab.
+Q11) d. Các icon, shortcut, tệp tin, chương trình, file...
+Q12) a. Trong hệ điều hành Windows 7, ta có thể chạy cùng lúc nhiều ứng dụng khác nhau.
+Q13) c. NTFS.
+Q14) b. Username và password cần phải giữ bí mật.
+Q15) b. Shift + F5.
+Q16) c. Cho phép người dùng sửa đổi, bổ sung tại vị trí bất kì trong văn bản; Thể hiện nhiều kiểu chữ (font), cỡ chữ, màu sắc khác nhau.
+Q17) b. Ctrl + Enter.
+Q18) b. Page layout>Page setup>Hyphenation>Automatic.
+Q19) a. Review.
+Q20) c. Word 2003 có thể mở được file đuôi docx lưu bởi word 2010 mà không bị lỗi.
+Q21) d. Ấn tổ hợp phím Ctrl + C.
+Q22) c. Gửi tin nhắn trên mạng Internet (chat).
+Q23) d. Ấn chuột trái>Sort> Sort Largest to Smallest.
+Q24) b. Open.
+Q25) a. Edit.
+Q25) c. Ctrl
+Q26) d. Delete
+Q27) c. Exit
+Q28) b. Design > Background Styles
+Q29) b. CTRL+O>Chọn tên tập tin cần tìm
+Q30) b. Save As
+Q31) a. Lên bố cục
+Q32) c. Nút Yes
+Q33) c. Chọn Insert > chọn slide number
+Q34) d. Nhấn đúp chuột trái vào biểu tượng trình duyệt.
+Q35) d. Pages: All
+Q36) b. Là trang chứa văn bản, hình ảnh, âm thanh, video và các liên kết.
+Q37) d. Điền thông tin văn bản.
+Q38) a. Ctrl + T.
+Q39) b. Sử dụng chức năng tìm kiếm nâng cao.
+Q40) c. Tên người dùng và mật khẩu.

@@ -1,0 +1,30 @@
+Q1) b.  Lên bố cục
+Q2) b.  không thể tạo chỉ số trên (ví dụ số 2 trong X2) như trong MS-Word
+Q3) a.  Lùi ra thụt vào
+Q4) a.  Vùng giữ chỗ không hoạt động
+Q5) c.  Nút Save
+Q6) d.  chọn Insert > Table
+Q7) b.  AutoFit
+Q8) c.  Slide Sorter
+Q9) a.  Insert
+Q10) a.  chọn Design > Background Styles
+Q11) d.  Các chủ đề (Themes)
+Q12) a.  Exit
+Q13) b.  Chọn review > chọn slide number
+Q14) a.  CTRL+O>Chọn tên tập tin cần tìm
+Q15) c.  Tạo Bản thuyết trình mới
+Q16) b.  Title Slide
+Q17) d.  Thuyết trình đào tạo
+Q18) b.  Clipboard
+Q19) d.  Layout
+Q20) b.  các cách nêu trong câu này đều đúng
+Q21) c.  Table Style
+Q22) d.  đóng tập tin hiện tại
+Q23) a.  Nhấn giữ CTRL + kích nút trái chuột vào đối tượng cần chọn
+Q24) d.  Picture or Texture Fill
+Q25) d.  Save As
+Q26) a.  chọn File > Open
+Q27) a.  Slides
+Q28) b.  PowerPoint 2010
+Q29) d.  Ordered List
+Q30) c.  Status bar

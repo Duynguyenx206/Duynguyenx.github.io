@@ -1,0 +1,89 @@
+Q1) Hãy chọn tài khoản bảo mật tốt nhất trong các tài khoản sau:
+b. username: contest password: Pa@w123456wo5vrsd
+
+Q2) Thương mại điện tử (e-commerce) là gì?
+b. Là các dịch vụ kinh doanh thương mại thông thường, nhưng được hỗ trợ bằng các thiết bị và dịch vụ điện tử.
+
+Q3) Dùng bao nhiêu chip để chế tạo một bộ vi xử lý đa lõi bao gồm nhiều vi xử lý?
+d. 2 chip
+
+Q4) Các tổ chức của chính phủ Việt Nam sử dụng đuôi tên miền nào sau đây?
+d. .GOV.VN
+
+Q5) Điều nào sau đây là đúng về username?
+b. Nên đặt phức tạp, kết hợp nhiều loại kí tự để đảm bảo bảo mật.
+
+Q6) Ví trí tốt nhất để đặt máy tính xách tay (Notebook) khi sử dụng chúng?
+d. Trên mặt bàn
+
+Q7) Chọn đáp án đúng nhất về định nghĩa phần mềm máy tính?
+d. Là một tập hợp câu lệnh hoặc chỉ thị dùng để thực hiện một chức năng cụ thể nào đó do người lập trình đảm trách.
+
+Q8) Đâu là điểm khác biệt lớn nhất giữa mạng LAN và WAN?
+c. WAN có thể trao đổi dữ liệu với các máy tính khác mà không quan tâm đến vị trí địa lí.
+
+Q9) Hãy chọn phương án xử lý tiết kiệm chi phí nhất khi máy in laser hết mực
+b. Đổ thêm mực
+
+Q10) Bộ cấp nguồn, bo mạch chủ, bộ vi xử lý, bộ nhớ của một máy tính được bảo vệ bởi thiết bị nào sau đây?
+c. Khối hệ thống
+
+Q11) Chọn cách giải thích ý nghĩa các con số trong ký hiệu sau: HDD 160GB SEAGATE SATA/150 - 7200rpm.
+d. Ổ đĩa HDD có dung lượng 160GB, chuẩn SATA có tốc độ truy cập là 150MB trên 1 giây, tốc độ quay ổ đĩa là 7200 vòng/giây
+
+Q12) Dịch vụ tin nhắn ngắn (SMS) là gì?
+c. Là một giao thức để gửi tin nhắn (văn bản, kí tự) qua mạng không dây. Độ dài tối đa của một tin nhắn là 160 ký tự nếu dùng bảng mã ASCII 7 bit.
+
+Q13) Hãy nêu định nghĩa của mạng máy tính?
+a. Là một hệ thống gồm nhiều máy tính và các thiết bị được kết nối với nhau bởi đường truyền vật lý theo một kiến trúc (Network Architecture) nào đó nhằm thu thập, trao đổi dữ liệu và chia sẻ tài nguyên cho nhiều người sử dụng.
+
+Q14) Phát biểu nào sau đây là sai về quyền tác giả?
+c. Là một bộ phận tách biệt với quyền sở hữu trí tuệ.
+
+Q15) Mạng xã hội phổ biến nhất toàn cầu là....
+c. Facebook
+
+Q16) Định nghĩa nào sau đây là chính xác nhất về Smartphone?
+b.  Là một chiếc điện thoại được tích hợp hệ điều hành di động với nhiều tính năng hỗ trợ về tính toán, kết nối và các công nghệ xử lý về âm thanh, hình ảnh, cảm biến,...
+
+Q17) Hãy giải thích khái niệm Social Engineering
+d.  Là kỹ thuật đánh lừa người dùng để khai thác thông tin hoặc lấy thông tin để xâm nhập hệ thống.
+
+Q18) Giải thích ý nghĩa của1600 MHz trong thông số của một bộ nhớ RAM: DDR3/1600MHz SDRAM
+d.  Tốc độ của BUS là 1600MHz/1 giây
+
+Q19) Băng thông là gì?
+a.  Là số lượng dữ liệu được truyền đi hoặc nhận trên một đơn vị thời gian
+
+Q20) Một Gbps thì bằng:
+c.  1024 Mbps
+
+Q21) Định nghĩa nào là đúng nhất khi nói về phần mềm ứng dụng? 
+c.  Là một phần trực tiếp thực hiện một công việc cho người dùng.
+
+Q22) Hãy chọn phát biểu chính xác nhất về vi phạm bản quyền phần mềm 
+d.  Nhân bản, sản xuất bản sao, phân phối phần mềm mà chưa được sự cho phép của tác giả.
+
+Q23) Dùng thiết bị nào để kết nối thêm các thiết bị ngoại vi với máy tính?
+d.  Card chuyển đổi
+
+Q24) Thông tin nào sau đây không đúng?
+d.  Apple là một trong những công ty đầu tiên giới thiệu "Thiết bị trợ giúp cá nhân kỹ thuật số" (PDA).
+
+Q25) Công cụ nào dưới đây dùng để quản lý cơ sở dữ liệu?
+b.  SQLServer
+
+Q26) Chọn chế độ nào dưới đây để máy tính ở chế độ ngủ?
+d.  Sleep
+
+Q27) Hãy chỉ ra quy tắc sai về mật khẩu
+d.  Nên sử dụng mật khẩu là ngày sinh, số điện thoại hoặc số chứng minh thư để dễ nhớ và bảo mật.
+
+Q28) Điểm kết nối dùng để gắn các thiết bị ngoại vi với bo mạch chủ được gọi là gì? 
+c.  Cổng
+
+Q29) Hãy giải thích quy tắc 20 20 20 khi sử dụng máy tính: 
+a.  Cứ 20 phút cho mắt nghỉ 20s và nhìn vào vật cách xa 20cm
+
+Q30) Hãy giải thích khái niệm bản quyền phần mềm
+b.  Là quyền của tác giả đối với chương trình máy tính, sưu tập dữ liệu.

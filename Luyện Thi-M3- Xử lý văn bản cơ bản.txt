@@ -1,0 +1,34 @@
+Q1) c. Review 
+Q2) b. Shift + F5 
+Q3) d. Tất cả các ý còn lại đều đúng 
+Q4) d. Soạn thảo văn bản và Xử lý văn bản 
+Q5) b. Dùng tính năng Find and Replace và chọn Replace All 
+Q6) b. Là một phần mềm ứng dụng cho phép thực hiện những thao tác liên quan đến việc soạn thảo văn bản: gõ (nhập) văn bản, sửa đổi, trình bày, lưu trữ và in ấn văn bản. 
+Q7) b. Nhấn tổ hợp phím Ctrl + Shift + A 
+Q8) c. MS Word tích hợp sẵn trong Windows nên không cần cài đặt nó 
+Q9) a. File > Save As > Create New Folder 
+Q10) b. Đưa con trỏ về cuối trang (phím tắt là CTRL+Alt+end) rồi nhấn Delete. 
+Q11) d. Là công cụ trong Word ghi chú thích ở cuối trang hoặc cuối tài liệu 
+Q12) d. Insert 
+Q13) a. Nhấn tổ hợp phím Ctrl + Shift + + 
+Q14) b. New Window 
+Q15) b. Ctrl + N 
+Q16) b. Start > All Programs > Microsoft Office > Microsoft Word 2010 
+Q17) b. Bấm vào menu File > Save As > Chọn thư mục cần lưu 
+Q18) b. Là bao gồm khổ giấy, kiểu trình bày, định lề trang văn bản, vị trí trình bày các thành phần thể thức, phông chữ, cỡ chữ, kiểu chữ và các chi tiết trình bày khác, được áp dụng đối với văn bản soạn thảo trên máy vi tính và in ra giấy. 
+Q19) c. Định dạng gạch chân cho văn bản 
+Q20) d. Nhấn tổ hợp phím Ctrl + Z 
+Q21) d. Thêm phần hấp dẫn và muốn làm rõ hơn ý minh họa trong báo cáo. 
+Q22) a. Đánh dấu vùng văn bản nào đó. Sau đó nhấn và giữ phím Ctrl trong khi thực hiện đánh dấu các vùng văn bản còn lại 
+Q23) b. Hủy hàng đợi in trong What’s printing của máy in 
+Q24) c. Lề (margin) 
+Q25) c. Tất cả các ý còn lại đều đúng 
+Q26) c. Ctrl + Enter 
+Q27) b. Không thể lưu được văn bản thành file pdf 
+Q28) a. Ctrl + O
+
+Q29) Trong Word 2010, lệnh ngắt từ tự động là:
+c. Page layout>Page setup>Hyphenation>Automatically
+
+Q30) Với Word, để lưu một tệp tin Word đang soạn thảo, nhấn:
+c. Ctrl + S

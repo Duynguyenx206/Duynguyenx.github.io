@@ -1,0 +1,89 @@
+Q1) Bàn phím ảo là chương trình nào trong hệ điều hành Windows 7?
+b. On-Screen keyboard
+
+Q2) Trong hệ điều hành Windows 7, muốn xem ngày tạo ra tệp tin, làm thế nào?
+d. Click chuột phải chọn Properties, thông tin ngày tạo hiện trên tab General
+
+Q3) Trong hệ điều hành Windows 7, tệp tin là khái niệm dành cho:
+d. Một đơn vị lưu trữ thông tin trên bộ nhớ RAM
+
+Q4) Trong hệ điều hành Windows 7, muốn tạo mới một Folder, ta làm thế nào?
+c. Trên vùng trống của thư mục cha, Click chuột phải, chọn New, chọn Folder
+
+Q5) Trong hệ điều hành Windows 7, phím tắt để mở Windows Explorer là:
+d. Windows + E
+
+Q6) Hãy cho biết định dạng chuẩn của phân vùng đĩa cài hệ điều hành trong hệ điều hành Windows
+a. NTFS
+
+Q7) Trong hệ điều hành Windows 7, hãy chọn cách đúng để khởi động lại máy tính?
+a. Từ cửa sổ màn hình nền nhấn nút Start - Shutdown, sau đó chọn mục Restart
+
+Q8) Trong hệ điều hành Windows 7, máy tính đọc dữ liệu nhanh nhất từ nguồn nào?
+a. Đĩa cứng
+
+Q9) Trong hệ điều hành Windows 7, ta làm thế nào nếu muốn đóng tệp hiện hành nhưng không thoát khỏi chương trình?
+b. Nhấn tổ hợp phím Alt + F4
+
+Q10) Ta có thể format ổ chứa hệ điều hành Windows 7 không?
+a. Không thể nếu như đang sử dụng hệ điều hành trên ổ đĩa đó
+
+Q11) Trong hệ điều hành Windows 7, muốn mở 1 tệp tin, ứng dụng, ta thực hiện thao tác nào?
+a. Click đúp vào biểu tượng tệp tin/ứng dụng
+
+Q12) Trong hệ điều hành Windows 7, nếu muốn xem kích thước của tệp, ta làm thế nào?
+a. Click chuột phải chọn Properties, thông tin kích thước hiện trên tab General
+
+Q13) Trong hệ điều hành Windows 7, ta sử dụng lệnh nào để khởi động lại máy?
+c. Lệnh shutdown
+
+Q14) Trong hệ điều hành Windows 7,ta sử dụng phím tắt nào khi muốn chuyển giữa các ứng dụng đang chạy?
+b. Alt + Tab
+
+Q15) Trong hệ điều hành Windows 7, để chọn được nhiều file riêng lẻ không kề nhau, ta chọn giữ phím nào?
+c. shift
+
+Q16) Hệ điều hành cần được nạp vào đâu để đảm bảo máy tính hoạt động được?
+d. Ram
+
+Q17) Trong hệ điều hành Windows 7, hãy chọn cách đúng nhất để tắt một ứng dụng đang bị treo:
+a. Mở Windows Task Manager chọn ứng dụng bị treo, nhấn End task.
+
+Q18) Trong hệ điều hành Windows 7, ta dùng thuộc tính nào để ẩn thanh công cụ Taskbar tự động?
+c. Auto-hide the taskbar
+
+Q19) Trong hệ điều hành Windows 7, để xoá một biểu tượng trên Desktop ta chọn biểu tượng cần xoá và:
+a. Nhấn phải chuột và chọn Delete
+
+Q20) Trong hệ điều hành Windows 7, hãy chọn một trong các tổ hợp phím tắt để tạo mới một Folder
+d. Ctrl+Shift+N
+
+Q21) Chọn cách khai báo nào tại thẻ lệnh Date của hộp thoại Customize Regional Options để thay đổi các thông số của hệ thống máy tính sao cho dữ liệu ngày được hiển thị dưới dạng “Tuesday, July 30, 2015”
+b. Tại Short date format hay Long date format nhập: dddd, MMMM dd, yyyy
+
+Q22) Trong hệ điều hành Windows 7, nếu muốn di chuyển 1 biểu tượng sang vị trí khác trên desktop,ta sẽ làm gì?
+d. Click vào biểu tượng đó rồi kéo sang vị trí cần di chuyển
+
+Q23) Phát biểu nào sau đây đúng nhất về ứng dụng của username và password để đăng nhập hệ thống?
+c. Username và password cần phải giữ bí mật
+
+Q24) Trong hệ điều hành Windows 7, dùng tổ hợp phím nào sau đây để phóng to thu nhỏ cả màn hình khi trình chiếu?
+c. Windows + [dấu + hoặc -]
+
+Q25) Nêu công dụng của thanh công cụ Taskbar trong hệ điều hành Windows 7
+c. Hiển thị các ứng dụng người dùng đang chạy
+
+Q26) Trong hệ điều hành Windows 7, để chọn được nhiều file theo nhóm kề nhau, ta chọn giữ phím nào?
+b. shift
+
+Q27) Khi sử dụng máy tính, thao tác nào sau đây không đảm bảo an toàn?
+d. Tháo lắp máy tính khi máy vẫn còn trong trạng thái hoạt động
+
+Q28) Trong hệ điều hành Windows 7, màn hình làm việc (desktop) có thể chứa:
+b. Các icon, shortcut, tệp tin, chương trình, file...
+
+Q29) Trong hệ điều hành Windows 7, ta thực hiện thao tác nào để mặc định để tùy chỉnh cập nhật của Windows?
+d. Vào Control Panel\System and Security\Windows Update
+
+Q30) Phát biểu nào là đúng về Hệ điều hành Windows 7?
+b. Trong hệ điều hành Windows 7, ta có thể chạy cùng lúc nhiều ứng dụng khác nhau
